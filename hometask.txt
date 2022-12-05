@@ -1,1 +1,8 @@
 содержимое файлов human.txt в ветках master и demo ничкм не отличаются
+
+комментарии коммитов
+init
+boots
+README added
+dots
+fix readme
