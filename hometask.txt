@@ -1,8 +1,14 @@
-содержимое файлов human.txt в ветках master и demo ничкм не отличаются
+содержимое файлов human.txt в ветках master и demo ничем не отличаются
 
-комментарии коммитов
+комментарии коммитов:
 init
+heat added
 boots
 README added
 dots
 fix readme
+merge boots and buttons
+add hometask.txt
+update hometask.txt
+new update hometask.txt
+new1 update hometask.txt
